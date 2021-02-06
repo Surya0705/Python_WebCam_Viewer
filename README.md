@@ -10,5 +10,5 @@ pip3 install opencv-python
 Below is the Screenshot of my Program:
 <img src="Code_Screenshot.png"><img>
 And if you wanna see how this Program Works then just refer to the GIF beow to see how this Program Works:
-![](Program's Working.GIF)
+
 Hope that you liked it.
