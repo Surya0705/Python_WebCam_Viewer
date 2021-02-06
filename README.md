@@ -8,3 +8,4 @@ Or if you are on Ubuntu (20.04 LTS which I use) then just type the following in 
 pip3 install opencv-python
 ```
 Below is the Screenshot of my Program:
+<img src="Code_Screenshot.png"><img>
